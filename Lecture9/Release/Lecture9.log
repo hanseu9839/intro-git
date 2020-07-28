@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\Lecture9\main.c(7,15): warning C4101: 'i8': unreferenced local variable
+C:\Users\hans9\source\repos\FirstProj\Lecture9\main.c(9,11): warning C4101: 'imax': unreferenced local variable
+C:\Users\hans9\source\repos\FirstProj\Lecture9\main.c(8,14): warning C4101: 'f8': unreferenced local variable
+C:\Users\hans9\source\repos\FirstProj\Lecture9\main.c(5,6): warning C4101: 'i': unreferenced local variable
+C:\Users\hans9\source\repos\FirstProj\Lecture9\main.c(10,12): warning C4101: 'umax': unreferenced local variable
+  Generating code
+  0 of 4 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lecture9.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Release\Lecture9.exe

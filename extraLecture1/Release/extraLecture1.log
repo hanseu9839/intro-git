@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\extraLecture1\main.c(8,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\hans9\source\repos\FirstProj\extraLecture1\main.c(8,9): error C2001: newline in constant
+C:\Users\hans9\source\repos\FirstProj\extraLecture1\main.c(9,1): error C2146: syntax error: missing ')' before identifier 'we'
+C:\Users\hans9\source\repos\FirstProj\extraLecture1\main.c(9,28): error C2001: newline in constant
+C:\Users\hans9\source\repos\FirstProj\extraLecture1\main.c(9,28): error C2015: too many characters in constant

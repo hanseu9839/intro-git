@@ -1,0 +1,9 @@
+﻿  Lecture6.c
+C:\Users\hans9\source\repos\FirstProj\Lecture6\Lecture6.c(7,29): warning C4307: '+': signed integral constant overflow
+C:\Users\hans9\source\repos\FirstProj\Lecture6\Lecture6.c(18,7): warning C4013: '_itoa' undefined; assuming extern returning int
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lecture6.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Release\Lecture6.exe

@@ -1,0 +1,2 @@
+C:\Users\hans9\source\repos\FirstProj\Debug\SecondeProj.exe.lastcodeanalysissucceeded
+C:\Users\hans9\source\repos\FirstProj\SecondeProj\Debug\NativeCodeAnalysis.read.1.tlog

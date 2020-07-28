@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\Lecture17\main.c(8,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'double *'
+C:\Users\hans9\source\repos\FirstProj\Lecture17\main.c(10,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'double *'
+C:\Users\hans9\source\repos\FirstProj\Lecture17\main.c(12,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'double *'
+C:\Users\hans9\source\repos\FirstProj\Lecture17\main.c(17,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Lecture17.vcxproj -> C:\Users\hans9\source\repos\FirstProj\x64\Debug\Lecture17.exe

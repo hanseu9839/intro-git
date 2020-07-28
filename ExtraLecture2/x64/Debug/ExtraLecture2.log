@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(10,17): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(10,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(19,20): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(19,20): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(26,35): warning C4307: '+': signed integral constant overflow
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(26,48): warning C4307: '+': signed integral constant overflow
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(26,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'int'
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(26,9): message : consider using '%d' in the format string
+C:\Users\hans9\source\repos\FirstProj\ExtraLecture2\main.c(26,9): message : consider using '%I32d' in the format string
+  ExtraLecture2.vcxproj -> C:\Users\hans9\source\repos\FirstProj\x64\Debug\ExtraLecture2.exe

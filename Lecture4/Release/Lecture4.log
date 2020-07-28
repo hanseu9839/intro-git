@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\Lecture4\main.c(16,28): warning C4013: 'malloc' undefined; assuming extern returning int
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lecture4.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Release\Lecture4.exe
