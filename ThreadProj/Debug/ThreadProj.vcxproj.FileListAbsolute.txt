@@ -1,2 +1,0 @@
-C:\Users\hans9\source\repos\FirstProj\Debug\ThreadProj.exe.lastcodeanalysissucceeded
-C:\Users\hans9\source\repos\FirstProj\ThreadProj\Debug\NativeCodeAnalysis.read.1.tlog

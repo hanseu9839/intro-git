@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\TBC8.5\main.c(21,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hans9\source\repos\FirstProj\TBC8.5\main.c(35,6): warning C4101: 'row': unreferenced local variable
+C:\Users\hans9\source\repos\FirstProj\TBC8.5\main.c(35,11): warning C4101: 'col': unreferenced local variable

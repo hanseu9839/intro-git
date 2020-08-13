@@ -1,2 +1,4 @@
-﻿  main.c
-  TBC8.8.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Debug\TBC8.8.exe
+﻿  TBC.c
+C:\Users\hans9\source\repos\FirstProj\TBC8.8\TBC.c(28,8): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\hans9\source\repos\FirstProj\TBC8.8\TBC.c(49,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hans9\source\repos\FirstProj\TBC8.8\TBC.c(74,28): warning C4013: 'get_fist_char' undefined; assuming extern returning int

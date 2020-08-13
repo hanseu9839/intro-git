@@ -109,6 +109,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBC8.9 텍스트 파일 읽
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBC9.1", "TBC9.1\TBC9.1.vcxproj", "{148516C4-A9E6-48F9-8D85-2338805871CE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBC9.2함수의 프로토타입", "TBC9.2함수의 프로토타입\TBC9.2함수의 프로토타입.vcxproj", "{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -541,6 +543,14 @@ Global
 		{148516C4-A9E6-48F9-8D85-2338805871CE}.Release|x64.Build.0 = Release|x64
 		{148516C4-A9E6-48F9-8D85-2338805871CE}.Release|x86.ActiveCfg = Release|Win32
 		{148516C4-A9E6-48F9-8D85-2338805871CE}.Release|x86.Build.0 = Release|Win32
+		{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}.Debug|x64.ActiveCfg = Debug|x64
+		{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}.Debug|x64.Build.0 = Debug|x64
+		{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}.Debug|x86.Build.0 = Debug|Win32
+		{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}.Release|x64.ActiveCfg = Release|x64
+		{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}.Release|x64.Build.0 = Release|x64
+		{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}.Release|x86.ActiveCfg = Release|Win32
+		{6DDF1403-FF51-434C-B78B-B4AF9F7B696B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
