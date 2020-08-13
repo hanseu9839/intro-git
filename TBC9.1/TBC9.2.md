@@ -24,7 +24,7 @@ void print_multiple_char(char c,int n_stars, bool print_newline)
 '''
 한줄이 가지고 있는 정보는 함수의 이름과 입력으로 무엇이 들어가는지 반환 값으로 무엇을 하는지 어떤 자료형의 자료형인지를 추측할 수 있다. 이렇게 작성하면 컴파일은 되고 링킹은 안된다. 즉, 컴파일이 프로토타입만 가지고 실행한다.실행파일을 만드는 링킹을 하는 단계에서는  몸체가 어디있구나라는 것을 인식하여 끼워 맞춘다. 링킹에러가 이러한 에러가 나오는 것이다. 몸체가 없으면 실행을 할 수 없다. 프로토타입만 있어도 빌드 즉, 컴파일은 된다는 것을 알 수 있다.
  
-![Link](C:/Users/hans9/source/repos/FirstProj/image/Link.jpg)
+![](C:/Users/hans9/source/repos/FirstProj/image/Link.jpg)
 이런식으로 Link에러가 발생한다. 
 
 C,C++의 우리의 직관과는 다른 특징이다.
