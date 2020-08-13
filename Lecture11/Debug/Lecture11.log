@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\Lecture11\main.c(49,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hans9\source\repos\FirstProj\Lecture11\main.c(63,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\hans9\source\repos\FirstProj\Lecture11\main.c(66,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hans9\source\repos\FirstProj\Lecture11\main.c(68,10): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\hans9\source\repos\FirstProj\Lecture11\main.c(72,11): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  Lecture11.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Debug\Lecture11.exe

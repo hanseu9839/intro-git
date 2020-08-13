@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\Lecture14\main.c(5,2): error C2065: '_': undeclared identifier
+C:\Users\hans9\source\repos\FirstProj\Lecture14\main.c(5,2): error C2143: syntax error: missing ';' before 'return'

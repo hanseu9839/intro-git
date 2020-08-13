@@ -49,17 +49,48 @@ int main(){
 
 	printf("%d %d %d\n", test1, test2, test3);*/
 
-	int a = 1, b = 2, c = 3, d = 4;
+	/*int a = 1, b = 2, c = 3, d = 4;
 
 	a > b && b > c || b > d;
-	((a > b) && (b > c)) || (b > d); 
+	((a > b) && (b > c)) || (b > d); */
 
 	/*
-		Short-circuit
-	
-	
+		Short-circuit Evaluation
+
+		- Logical expressions are evaluated from left to right 
+		- && and || are sequence points
 	*/
 
+	//int temp = (1 + 2) * (3 + 4);
+
+	//printf("Before : %d\n", temp);
+
+	//if (temp == 0 && (++temp == 1024)) {
+	//	//do nothing
+	//}
+
+	//printf("After : %d\n", temp);
+
+	//int x = 1, y = 2;
+	//if (x++ > 0 && x + y == 4)
+	//	printf("%d %d\n", x, y);
+
+	/* Ranges */
+	
+	/*for (int i = 0; i < 100; ++i)
+		if (i >= 10 && i <= 20)
+			printf("%d", i);
+	printf("\n");*/
+
+
+	for (char c = -128; c < 127; ++c)
+		if (c >= 'a' && c <= 'z')
+			printf("%c", c);
+	printf("\n");
+
+	for (char c = 0; c < 127; ++c)
+		if (islower(c))
+			printf("%c ", c);
 
 	return 0;
 }

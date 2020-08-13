@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\Lecture8\main.c(14,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\hans9\source\repos\FirstProj\Lecture8\main.c(14,9): message : placeholders and their parameters expect 5 variadic arguments, but 4 were provided
+C:\Users\hans9\source\repos\FirstProj\Lecture8\main.c(14,9): message : the missing variadic argument 5 is required by format string '%#X'
+  Lecture8.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Debug\Lecture8.exe

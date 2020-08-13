@@ -1,4 +1,2 @@
 ﻿  main.c
-C:\Users\hans9\source\repos\FirstProj\LoopLecture4\main.c(6,2): error C2146: syntax error: missing ';' before identifier 'printf'
-C:\Users\hans9\source\repos\FirstProj\LoopLecture4\main.c(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\hans9\source\repos\FirstProj\LoopLecture4\main.c(10,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LoopLecture4.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Debug\LoopLecture4.exe

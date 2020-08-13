@@ -1,2 +1,4 @@
 ﻿  Lecture6.c
+C:\Users\hans9\source\repos\FirstProj\Lecture6\Lecture6.c(7,29): warning C4307: '+': signed integral constant overflow
+C:\Users\hans9\source\repos\FirstProj\Lecture6\Lecture6.c(18,7): warning C4013: '_itoa' undefined; assuming extern returning int
   Lecture6.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Debug\Lecture6.exe
