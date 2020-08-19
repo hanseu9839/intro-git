@@ -7,7 +7,7 @@
 #define NAME "Seung-Gyun Han"
 #define ADDRESS "Inchoen, Korea"
 
-void print_multiple_char(char c,int n_stars, bool print_newline);
+void print_multiple_char(char ,int , bool );
 void print_centered_str(char str[]);
 
 int main()
@@ -23,15 +23,15 @@ int main()
 	return 0;
 }
 
-//void print_multiple_char(char c,int n_stars, bool print_newline)
-//{
-//	for (int i = 0; i < n_stars; i++)
-//		printf("%c", c);
-//
-//	if (print_newline)
-//		printf("\n");
-//	
-//}
+void print_multiple_char(char c,int n_stars, bool print_newline)
+{
+	for (int i = 0; i < n_stars; i++)
+		printf("%c", c);
+
+	if (print_newline)
+		printf("\n");
+	
+}
 void print_centered_str(char str[])
 {
 	int n_blanks = 0;

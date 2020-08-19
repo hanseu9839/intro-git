@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\hans9\source\repos\FirstProj\TBC9.13포인터의 기본적인 사용 방법\main.c(22,41): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\hans9\source\repos\FirstProj\TBC9.13포인터의 기본적인 사용 방법\main.c(22,41): message : placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+  TBC9.13포인터의 기본적인 사용 방법.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Debug\TBC9.13포인터의 기본적인 사용 방법.exe
