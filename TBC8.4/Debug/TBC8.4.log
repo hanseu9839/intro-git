@@ -1,5 +1,1 @@
-﻿  main.c
-C:\Users\hans9\source\repos\FirstProj\TBC8.4\main.c(8,10): warning C4473: 'printf' : not enough arguments passed for format string
-C:\Users\hans9\source\repos\FirstProj\TBC8.4\main.c(8,10): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
-C:\Users\hans9\source\repos\FirstProj\TBC8.4\main.c(8,10): message : the missing variadic argument 1 is required by format string '%d'
-  TBC8.4.vcxproj -> C:\Users\hans9\source\repos\FirstProj\Debug\TBC8.4.exe
+﻿
